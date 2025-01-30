@@ -1,4 +1,3 @@
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lordskyzw/repos?time_range=one_year&group=other&theme=bright_lights)
 
 # Welcome to My GitHub Profile!
 
@@ -28,3 +27,6 @@ I am part of the internet maintenance crew at Liquid Intelligent Technologies, w
 ---
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lordskyzw/repos?time_range=one_year&group=other&theme=bright_lights)
+
