@@ -1,6 +1,6 @@
 ## About
 - **Current Role**: kwisatz haderach
-- **Focus**: prescience & discernment
+- **Focus**: ![Focus](https://img.shields.io/badge/Focus-Prescience-gold) prescience & discernment
 - **Interests**: the way, the truth.
 
 ## Skills
@@ -10,8 +10,8 @@
 - **Networking**: most of my friendships are built on information flow
 
 ## Public Projects
+- **![Status](https://img.shields.io/badge/Alignment-Lawful%20Good-blue) [Zimra](https://github.com/lordskyzw/zimra)**: An open-source python library which commoditizes electronic tax compliance in Zimbabwe. (lawfully good)
 - **[Network Automation Tools]([https://github.com/lordskyzw/network-automation-tools](https://github.com/lordskyzw/chroma-stone-research))**: Python scripts for exploring MNO vulnerabilities in Zimbabwe. (chaotic evil)
-- **[Zimra](https://github.com/lordskyzw/zimra)**: An open-source python library which commoditizes electronic tax compliance in Zimbabwe. (lawfully good)
 
 ## Get in Touch
 - **LinkedIn**: [Linkedin](https://www.linkedin.com/in/tarimicachiwara)
