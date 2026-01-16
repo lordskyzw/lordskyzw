@@ -6,7 +6,7 @@
 ## Skills
 - **Programming Languages**: prayer, english
 - **Frameworks**: case wisdom, practical mathematics, applied philosophy, luck & a little computer science voodoo
-- **Tools**: ~12W neuromorphic nueral net, stubborn will power & end goal oriented intent
+- **Tools**: i possess a 12 Watt neuromorphic nueral network, unlimited and uninterrupted access to the internet, stubborn will power & an end goal oriented intent
 - **Networking**: most of my friendships are built on information flow
 
 ## Public Projects
