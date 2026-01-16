@@ -6,7 +6,7 @@
 
 ## About
 - **Current Role**: ![Role](https://img.shields.io/badge/Role-kwisatz%20haderach-purple)
-- **Focus**: ![Focus](https://img.shields.io/badge/Focus-Prescience-gold) + ![Discernment](https://img.shields.io/badge/Focus-Discernment-blueviolet)
+- **Focus**: ![Prescience](https://img.shields.io/badge/Focus-Prescience-gold) ![Discernment](https://img.shields.io/badge/Focus-Discernment-blueviolet)
 - **Interests**: ![The Way](https://img.shields.io/badge/Interest-the%20way-white) ![The Truth](https://img.shields.io/badge/Interest-the%20truth-white)
 
 ---
