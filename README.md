@@ -6,7 +6,7 @@
 
 ## About
 - **Current Role**: ![Role](https://img.shields.io/badge/Role-kwisatz%20haderach-purple)
-- **Focus**: ![Prescience](https://img.shields.io/badge/Focus-Prescience-gold) ![Discernment](https://img.shields.io/badge/Focus-Discernment-blueviolet)
+- **Focus**: ![Focus](https://img.shields.io/badge/Focus-Prescience-gold) + ![Discernment](https://img.shields.io/badge/Focus-Discernment-blueviolet)
 - **Interests**: ![The Way](https://img.shields.io/badge/Interest-the%20way-white) ![The Truth](https://img.shields.io/badge/Interest-the%20truth-white)
 
 ---
@@ -45,11 +45,18 @@ Python scripts for exploring MNO vulnerabilities in Zimbabwe. (chaotic evil)
 - **Twitter**: [@twitter](https://twitter.com/tarmicachiwara)
 - **Email**: tarimicac@gmail.com
 
-> Feel free to reach out if you have any questions or collaboration ideas!
-
 ---
 
 ### 📊 Telemetry
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lordskyzw/repos?time_range=one_year&group=other&theme=bright_lights)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=lordskyzw&color=blueviolet&style=flat-square&label=VISITORS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lordskyzw&color=blueviolet&style=flat-square&label=VISITORS" alt="Visitor Count" />
+</p>
+
+---
+
+<p align="center">
+  <i>"I must not fear. Fear is the mind-killer."</i><br>
+  <b>Feel free to reach out if you have any questions or collaboration ideas!</b>
+</p>
