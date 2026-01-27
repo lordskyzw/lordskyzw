@@ -47,7 +47,7 @@ Python scripts for exploring MNO vulnerabilities in Zimbabwe. (chaotic evil)
 ### 📊 Telemetry
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lordskyzw&color=blueviolet&style=flat-square&label=ANON VISITORS" alt="Anon Visits" />
+  <img src="https://komarev.com/ghpvc/?username=lordskyzw&color=blueviolet&style=flat-square&label=ANON%20VISITORS" alt="Anon Visits" />
 </p>
 
 ---
