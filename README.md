@@ -1,8 +1,6 @@
 # Lisan Al Gahib
 
 
----
-
 ## About
 - **Current Role**: ![Role](https://img.shields.io/badge/Role-kwisatz%20haderach-purple)
 - **Focus**: ![Focus](https://img.shields.io/badge/Focus-Prescience-gold) + ![Discernment](https://img.shields.io/badge/Focus-Discernment-blueviolet)
@@ -49,7 +47,7 @@ Python scripts for exploring MNO vulnerabilities in Zimbabwe. (chaotic evil)
 ### 📊 Telemetry
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lordskyzw&color=blueviolet&style=flat-square&label=ANON%BVISITORS" alt="Anon Visits" />
+  <img src="https://komarev.com/ghpvc/?username=lordskyzw&color=blueviolet&style=flat-square&label=ANON VISITORS" alt="Anon Visits" />
 </p>
 
 ---
