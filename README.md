@@ -1,6 +1,5 @@
-# 🌌 Kwisatz Haderach | @lordskyzw
+# Lisan Al Gahib
 
-> **Current Status:** 🧘 Navigating the Golden Path
 
 ---
 
@@ -48,15 +47,15 @@ Python scripts for exploring MNO vulnerabilities in Zimbabwe. (chaotic evil)
 ---
 
 ### 📊 Telemetry
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lordskyzw/repos?time_range=one_year&group=other&theme=bright_lights)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lordskyzw&color=blueviolet&style=flat-square&label=VISITORS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=lordskyzw&color=blueviolet&style=flat-square&label=ANON%BVISITORS" alt="Anon Visits" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"I must not fear. Fear is the mind-killer."</i><br>
+  <i>"I must not fear. Fear is the mind-killer."</i><br><br>
+  <b>All jokes aside, I'm a Research & Development Engineer (thats what im feeling now but im a Computer Enginner (1st class Bachelors Degree)</b>
   <b>Feel free to reach out if you have any questions or collaboration ideas!</b>
 </p>
