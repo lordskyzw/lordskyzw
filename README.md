@@ -54,6 +54,6 @@ Python scripts for exploring MNO vulnerabilities in Zimbabwe. (chaotic evil)
 
 <p align="center">
   <i>"I must not fear. Fear is the mind-killer."</i><br><br><br>
-  <b>All jokes aside, I'm a Research & Development Engineer (thats what im feeling now but im a Computer Enginner <br>(1st class Bachelors Degree)</b><br><br>
+  <b>All jokes aside, I'm a Research & Development Engineer<br>(tbh, i hold a 1st class Computer Engineering Degree)</b><br><br>
   <b>Feel free to reach out if you have any questions or collaboration ideas!</b>
 </p>
